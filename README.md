@@ -1,6 +1,6 @@
 ### Hey there, I'm  Alhasan Abo Obaid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👋 Hi, I’m a Networks computer engineer
+- 👋 I’m a Networks computer engineer
 - 👀 I’m interested in developing mobile applications
 - 🌱 I’m currently learning DevOps
 
