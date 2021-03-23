@@ -1,7 +1,7 @@
 ### Hey there, I'm  Alhasan Abo Obaid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align="center">
-<p align="left">Contact me at </p>
+<p align="center">Contact me at </p>
 <br/>
 <a href="https://www.instagram.com/alhasanaboobaid/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
