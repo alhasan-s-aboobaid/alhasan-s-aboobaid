@@ -30,5 +30,10 @@
 
 <summary>📝 My GitHub Stats</summary>
 <br>
-
+<div>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alhasan-s-aboobaid&theme=highcontrast&show_icons=true&count_private=true)
+</div>
+<br/>
+<div>
+    ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alhasan-s-aboobaid)
+</div>
