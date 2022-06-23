@@ -33,7 +33,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alhasan-s-aboobaid&theme=highcontrast&show_icons=true&count_private=true)
 
-<br/>
 
-    ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alhasan-s-aboobaid)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alhasan-s-aboobaid)
 
