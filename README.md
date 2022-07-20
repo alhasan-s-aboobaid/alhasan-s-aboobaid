@@ -2,7 +2,7 @@
 
 - 👋 I’m a Networks computer engineer
 - 👀 I’m interested in developing mobile applications
-- 🌱 I’m currently learning DevOps
+- 🌱 I use Flutter framework in addition to Native Java 
 
 ### Languages & Tools
 
